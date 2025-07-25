@@ -7,7 +7,7 @@ This project is a modular, local-first AI agent framework designed to help you b
 
 ## 📚 Table of Contents
 
-- [🖼️ How it looks like](#-how-it-looks-like)
+- [🖼️ How it looks like](#how-it-looks-like)
 - [✨ Features](#features)
 - [🛠️ Technologies Used](#technologies-used)
 - [🚀 Getting Started](#getting-started)

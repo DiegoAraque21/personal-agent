@@ -7,13 +7,21 @@ This project is a modular, local-first AI agent framework designed to help you b
 
 ## 📚 Table of Contents
 
+- [🖼️ How it looks like](#-how-it-looks-like)
 - [✨ Features](#-features)
 - [🛠️ Technologies Used](#-technologies-used)
 - [🚀 Getting Started](#-getting-started)
+- [📚 Create Knowledge Base](#-create-knowledge-base)
 - [💻 Running the Project Locally](#-running-the-project-locally)
 - [📂 Project Structure](#-project-structure)
 - [🤔 How It Works](#-how-it-works)
 - [📝 License](#-license)
+
+---
+
+## 🖼️ How it looks like
+
+<img width="1289" height="685" alt="Screenshot 2025-07-24 at 8 02 35 p m" src="https://github.com/user-attachments/assets/6c390815-a71a-42c5-8ab8-b03e6bd1b8f2" />
 
 ---
 
@@ -91,6 +99,8 @@ We recommend using [uv](https://github.com/astral-sh/uv) for fast environment ma
 1. Create a new folder in the `knowledge` directory.
 2. Create new files in the folder.
 3. Add the content of the file to the knowledge base.
+
+---
 
 ## 💻 Running the Project Locally
 

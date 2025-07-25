@@ -1,0 +1,11 @@
+.venv
+__pycache__
+.DS_Store
+.vscode
+.idea
+# content inside of chroma_store and knowledge folder, but still keep the folder
+chroma_store/*
+knowledge/*
+.env
+uv.lock
+.gradio/*

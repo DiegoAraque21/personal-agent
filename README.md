@@ -8,14 +8,13 @@ This project is a modular, local-first AI agent framework designed to help you b
 ## 📚 Table of Contents
 
 - [🖼️ How it looks like](#-how-it-looks-like)
-- [✨ Features](#-features)
-- [🛠️ Technologies Used](#-technologies-used)
-- [🚀 Getting Started](#-getting-started)
-- [📚 Create Knowledge Base](#-create-knowledge-base)
-- [💻 Running the Project Locally](#-running-the-project-locally)
-- [📂 Project Structure](#-project-structure)
-- [🤔 How It Works](#-how-it-works)
-- [📝 License](#-license)
+- [✨ Features](#features)
+- [🛠️ Technologies Used](#technologies-used)
+- [🚀 Getting Started](#getting-started)
+- [📚 Create Knowledge Base](#create-knowledge-base)
+- [💻 Running the Project Locally](#running-the-project-locally)
+- [📂 Project Structure](#project-structure)
+- [🤔 How It Works](#how-it-works)
 
 ---
 
@@ -153,13 +152,6 @@ ai_agent/
 
 3. **Extensible Tools:**  
    Easily add new tools or evaluators in the `chat/` directory to expand your agent’s capabilities.
-
----
-
-## 📝 License
-
-MIT License.  
-Feel free to use, modify, and share! 🌟
 
 ---
 
